@@ -1,9 +1,10 @@
 ul{
     background-image: url('./lab-assets/list-bg.png');
     background-repeat: no-repeat;
+    background-size: contain;
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 body{
@@ -16,4 +17,13 @@ body{
 .previewpizza{
     max-width: 100%;
     height: auto;
+}
+
+div{
+    height: 15px;
+    width: auto;
+
+    background-image: url('./lab-assets/hr-img.png');
+    background-repeat: repeat-x;
+    background-size: .4% 100%;
 }
