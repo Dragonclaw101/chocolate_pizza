@@ -1,0 +1,19 @@
+ul{
+    background-image: url('./lab-assets/list-bg.png');
+    background-repeat: no-repeat;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+}
+
+.previewpizza{
+    max-width: 100%;
+    height: auto;
+}
