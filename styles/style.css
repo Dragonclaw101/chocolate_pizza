@@ -7,6 +7,11 @@ ul{
     margin-bottom: 20px;
 }
 
+h1{
+    font-weight: bolder;
+    font-size: 200%;
+}
+
 body{
     margin-top: 10px;
     margin-left: 200px;
@@ -20,10 +25,10 @@ body{
 }
 
 div{
-    height: 20px;
+    height: 13px;
     width: auto;
 
     background-image: url('./lab-assets/hr-img.png');
     background-repeat: repeat-x;
-    background-size: .4% 100%;
+    background-size: .375% 100%;
 }
