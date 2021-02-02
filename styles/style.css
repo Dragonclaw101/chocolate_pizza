@@ -1,10 +1,17 @@
 ul{
-    background-image: url('./lab-assets/list-bg.png');
+    background-image: url('../images/list-bg.png');
     background-repeat: no-repeat;
     background-size: contain;
     list-style-type: none;
     padding-bottom: 20px;
     margin-bottom: 20px;
+
+    font-family: 'comic sans ms';
+    font-weight: lighter;
+    font-size: 20px;
+
+    column-count: 2;
+    column-gap: 10px;
 }
 
 h1{
@@ -28,7 +35,7 @@ div{
     height: 13px;
     width: auto;
 
-    background-image: url('./lab-assets/hr-img.png');
+    background-image: url('../images/hr-img.png');
     background-repeat: repeat-x;
     background-size: .375% 100%;
 }
