@@ -1,22 +1,4 @@
 ul{
-    background-image: url('../images/list-bg.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    list-style-type: none;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-
-    font-family: 'comic sans ms';
-    font-weight: lighter;
-    font-size: 20px;
-
-    column-count: 2;
-    column-gap: 10px;
-}
-
-h1{
-    font-weight: bolder;
-    font-size: 200%;
 }
 
 body{
@@ -26,11 +8,6 @@ body{
     margin-bottom: 10px;
 }
 
-.previewpizza{
-    max-width: 100%;
-    height: auto;
-}
-
 div{
     height: 13px;
     width: auto;
@@ -38,4 +15,14 @@ div{
     background-image: url('../images/hr-img.png');
     background-repeat: repeat-x;
     background-size: .375% 100%;
+}
+
+.instructions{
+	text-indent: 5%;
+	
+}
+
+.link-images{
+	list-style-type: none;
+	display: inline;
 }
