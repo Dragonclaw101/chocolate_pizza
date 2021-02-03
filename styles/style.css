@@ -18,10 +18,12 @@ div{
 }
 
 .instructions{
-	text-indent: 5%;
-	
+    text-indent: 5%;
+    font-family: "comic sans";
+    font-size: 125%;
+    color: #444e41;
 }
-
+7
 .link-images{
 	list-style-type: none;
 	display: inline;
