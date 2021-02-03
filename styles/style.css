@@ -28,3 +28,9 @@ div{
 	list-style-type: none;
 	display: inline;
 }
+
+.footer {
+    font-family: "comic sans";
+    font-size: 125%;
+    color: #444e41;
+}
