@@ -1,0 +1,36 @@
+ul{
+}
+
+body{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+}
+
+div{
+    height: 13px;
+    width: auto;
+
+    background-image: url('../images/hr-img.png');
+    background-repeat: repeat-x;
+    background-size: .375% 100%;
+}
+
+.instructions{
+    text-indent: 5%;
+    font-family: "comic sans";
+    font-size: 125%;
+    color: #444e41;
+}
+7
+.link-images{
+	list-style-type: none;
+	display: inline;
+}
+
+.footer {
+    font-family: "comic sans";
+    font-size: 125%;
+    color: #444e41;
+}
