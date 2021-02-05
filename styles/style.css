@@ -51,20 +51,44 @@ h2{
 
 }
 
+#ListBG{
+	margin-top: -250px;	
+}
+
 #Delicious{
 	display: inline;
 }
 
 #list{
-	background-image: url('./images/list-bg.png');
 	font-family: "comic sans ms";
+	columns: 2;
+	
+	margin-left: 15px;
+	margin-right: 15px;
+	
+	font-size: 125%;
+	color: #735e3f;
 }
 
 #images{
 	padding-right: 16px;
 }
 
+#profile{
+	columns: 3;
+	margin-right: -80%;
+}
+
 
 ul{
-		list-style-type: none;
+	list-style-type: none;
+}
+
+
+button{
+	background-color: #c26559;
+	text-align: center;
+	color: white;
+	padding: 15px 32px;
+	border: #c26559;
 }
